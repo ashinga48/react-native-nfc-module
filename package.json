@@ -1,0 +1,26 @@
+{
+  "name": "react-native-nfc-module",
+  "version": "0.1.0",
+  "description": "NFC module in Android for all types of cards NDEF, NDFA & this is an react wrapper for https://github.com/nadam/nfc-reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ashinga48/react-native-nfc-module.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "native",
+    "module"
+  ],
+  "author": "Ravi Teja K <kesanam.ravi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashinga48/react-native-nfc-module/issues"
+  },
+  "homepage": "https://github.com/ashinga48/react-native-nfc-module#readme"
+}
